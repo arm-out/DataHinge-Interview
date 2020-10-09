@@ -1,0 +1,1415 @@
+[{
+  "_id": {
+    "$oid": "5f7fbd80beab0eb6ed7efb6b"
+  },
+  "plaintiff": "FLORIDA INVESTORS MORTGAGE COR",
+  "defendant": "S L PROPERTY MANAGEMENT & INV, RENTZ HERMAN L",
+  "date": "01/14/1987",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "870000395",
+  "book_page": "612/219",
+  "pages": "1",
+  "description": "87 17 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/870000395.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbd92beab0eb6ed7efb6c"
+  },
+  "plaintiff": "MARCELLO PROPERTIES INC",
+  "defendant": "PERRINE JAMES L, LAKE SHORE HOSPITAL",
+  "date": "01/20/1987",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "870000538",
+  "book_page": "612/588",
+  "pages": "1",
+  "description": "87 14 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/870000538.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbda4beab0eb6ed7efb6d"
+  },
+  "plaintiff": "CREDITHRIFT INC",
+  "defendant": "WEATHERSHIELD SYSTEMS INC, PYLE FRANCIS R, PYLE EUGENE H",
+  "date": "01/27/1987",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "870000845",
+  "book_page": "613/357",
+  "pages": "1",
+  "description": "86 83 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/870000845.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbdb9beab0eb6ed7efb6e"
+  },
+  "plaintiff": "FEDERAL LAND LANK OF COL CO",
+  "defendant": "OOSTERHOUDT FRANK S III, J C MARSH & SONS /ETAL, OOSTERHOUDT MICHAEL B, OOSTERHOUDT ALLIE M, OOSTERHOUDT PATRICK E",
+  "date": "07/30/1987",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "870008123",
+  "book_page": "629/72",
+  "pages": "13",
+  "description": "87 473 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/870008123.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbdccbeab0eb6ed7efb6f"
+  },
+  "plaintiff": "ADAMS GREG",
+  "defendant": "BEDENBAUGH KEVIN, PASCHALL DIANE S",
+  "date": "02/02/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880001041",
+  "book_page": "643/37",
+  "pages": "1",
+  "description": "LOT 5 BLK D OF 242 VILLAGE",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880001041.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbddebeab0eb6ed7efb70"
+  },
+  "plaintiff": "AMSOUTH MORTGAGE COMPANY INC",
+  "defendant": "PERRY HAROLD D, FAMILY CREDIT SERVICES INC",
+  "date": "02/08/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880001249",
+  "book_page": "643/419",
+  "pages": "3",
+  "description": "PART OF BLK E&M CITY LAKE CITY",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880001249.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbdf0beab0eb6ed7efb71"
+  },
+  "plaintiff": "EDWARDS RUBY S SCHMITT",
+  "defendant": "ZAKOVSKY STEPHEN & ELISABETH",
+  "date": "02/25/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880001923",
+  "book_page": "645/164",
+  "pages": "1",
+  "description": "LOT 50 U 4 3 RIVERS ESTATES",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880001923.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbe03beab0eb6ed7efb72"
+  },
+  "plaintiff": "BROWN CHALKER JR, BROWN THOMAS",
+  "defendant": "HAMMONS G WAYNE DDS, FEAGLE MARLIN M, OCALA ROSE FARM, HOLDER MEDIA INC, KING VERONICA, KING RODNEY, GRAVES ROBERT J, REEBEN INC",
+  "date": "03/05/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880003368",
+  "book_page": "648/548",
+  "pages": "1",
+  "description": "LOTS 3-8 BLK 9 THOMAS PARK S/D",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880003368.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbe15beab0eb6ed7efb73"
+  },
+  "plaintiff": "ANCHOR SAVINGS BANK FSB",
+  "defendant": "BLAIR MARK, CREDITHRIFT INC, BLAIR SHELIA, INTERSTATE SUPPLY INC",
+  "date": "03/15/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880002588",
+  "book_page": "646/658",
+  "pages": "2",
+  "description": "PART OF SEC 24 & 25 T4S R17E",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880002588.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbe27beab0eb6ed7efb74"
+  },
+  "plaintiff": "COMMUNITY NATIONAL BANK",
+  "defendant": "THOMAS MILO SCOTT / PER REP",
+  "date": "08/11/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880007714",
+  "book_page": "659/163",
+  "pages": "1",
+  "description": "PART OF BLK 250 CITY/LAKE CITY",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880007714.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbf0723a4e6242d2116c5"
+  },
+  "plaintiff": "FIRST FEDERAL  SAVINGS BANK OF FLORIDA",
+  "defendant": "THOMAS MILO I JR/ESTATE, THOMAS MILO SCOTT/ PERSONAL  REPRESENTATIVE",
+  "date": "10/07/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880009518",
+  "book_page": "663/617",
+  "pages": "2",
+  "description": "LOT 12 OF OPALS ADDITION",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880009518.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbf951f748b3aeb1de80d"
+  },
+  "plaintiff": "FIRST FED SAVINGS BANK OF FLOR",
+  "defendant": "ODETTE CHARLES Z, HARRIS MICHAEL, ODETTE RUNETTE",
+  "date": "12/21/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880012432",
+  "book_page": "671/231",
+  "pages": "1",
+  "description": "PART OF SEC 5 T4S R16E",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880012432.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbfa71f748b3aeb1de80e"
+  },
+  "plaintiff": "ANCHOR SAVINGS BANK FSB",
+  "defendant": "WOODS JEAN M, STEVENS BRANT, WOODS WALTER W JR, STEVENS DON",
+  "date": "01/09/1989",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "890000219",
+  "book_page": "673/26",
+  "pages": "1",
+  "description": "PART OF SEC 33 T3S R17E",
+  "document": "https://datahingeinterview.s3.amazonaws.com/890000219.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbfba1f748b3aeb1de80f"
+  },
+  "plaintiff": "DICKS J L, DICKS LOTTIE",
+  "defendant": "SIZEMORE SHELDON W",
+  "date": "02/10/1989",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "890001482",
+  "book_page": "675/814",
+  "pages": "1",
+  "description": "PART OF SEC 25 T5S R17E 88 945 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/890001482.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbfcc1f748b3aeb1de810"
+  },
+  "plaintiff": "FIRST RAILROAD COMMUNITY FED C",
+  "defendant": "HARKENRIDER SHIRLEY, HARKENRIDER ROBERT J",
+  "date": "03/13/1989",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "890002670",
+  "book_page": "678/531",
+  "pages": "1",
+  "description": "LOT 108 UN 2 HI DRI ACRES",
+  "document": "https://datahingeinterview.s3.amazonaws.com/890002670.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbfde1f748b3aeb1de811"
+  },
+  "plaintiff": "MCDAVID TERRY",
+  "defendant": "STORMANT LINDA",
+  "date": "03/22/1989",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "890003113",
+  "book_page": "679/544",
+  "pages": "1",
+  "description": "LOT 7 SHADOWWOOD ESTATES",
+  "document": "https://datahingeinterview.s3.amazonaws.com/890003113.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fbff01f748b3aeb1de812"
+  },
+  "plaintiff": "COLUMBIA COUNTY BANK",
+  "defendant": "NETTLES LINDA M, NETTLES B WAYNE",
+  "date": "03/27/1989",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "890003250",
+  "book_page": "680/96",
+  "pages": "1",
+  "description": "PRT OF BL 247 ESTRN DIV L CTY",
+  "document": "https://datahingeinterview.s3.amazonaws.com/890003250.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc0021f748b3aeb1de813"
+  },
+  "plaintiff": "THREE RIVERS ESTATES INC",
+  "defendant": "BEACH VICKI L",
+  "date": "04/25/1989",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "890004376",
+  "book_page": "682/648",
+  "pages": "1",
+  "description": "LOT 3 BLK 2 3 RVRS ESTS UN 23",
+  "document": "https://datahingeinterview.s3.amazonaws.com/890004376.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc0131f748b3aeb1de814"
+  },
+  "plaintiff": "THREE RIVERS ESTATES INC",
+  "defendant": "IRWIN SANDRA L, IRWIN DONALD H",
+  "date": "04/25/1989",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "890004404",
+  "book_page": "682/705",
+  "pages": "1",
+  "description": "LOT 9 3 RVRS ESTS UNIT 1A",
+  "document": "https://datahingeinterview.s3.amazonaws.com/890004404.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc0251f748b3aeb1de815"
+  },
+  "plaintiff": "BISBEE BALDWIN CORPORATION",
+  "defendant": "AFFORDABLE HOUSING CONSULTANTS",
+  "date": "05/03/1989",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "890004765",
+  "book_page": "683/489",
+  "pages": "2",
+  "description": "PART OF 242 VILLAGE",
+  "document": "https://datahingeinterview.s3.amazonaws.com/890004765.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc0371f748b3aeb1de816"
+  },
+  "plaintiff": "BISBEE BALDWIN CORPORATION",
+  "defendant": "AFFORDABLE HOUSING CONSULTANTS",
+  "date": "06/23/1989",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "890007782",
+  "book_page": "689/499",
+  "pages": "1",
+  "description": "LOT 1 & 13 BLK A 242 VILLAGE",
+  "document": "https://datahingeinterview.s3.amazonaws.com/890007782.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc04a1f748b3aeb1de817"
+  },
+  "plaintiff": "EMPIRE OF AMERICA FEDERAL SAV",
+  "defendant": "AMBERWOOD APARTMENTS LTD",
+  "date": "10/19/1989",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "890012374",
+  "book_page": "699/530",
+  "pages": "2",
+  "description": "PART OF SEC 6 T4S R17E",
+  "document": "https://datahingeinterview.s3.amazonaws.com/890012374.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc05c1f748b3aeb1de818"
+  },
+  "plaintiff": "DAUGHTRY O P JR, DAUGHTRY O P III",
+  "defendant": "BALDRIC JASON B, ABASOLO CHRISTINO, TORRANS ALFRED W II PER REP, BALDRIC CECILIA A ESTATE OF, BALDRIC JONATHAN M",
+  "date": "12/27/1989",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "890014967",
+  "book_page": "705/520",
+  "pages": "1",
+  "description": "LOT 21 VILLAGE ON THE GREEN",
+  "document": "https://datahingeinterview.s3.amazonaws.com/890014967.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc06e1f748b3aeb1de819"
+  },
+  "plaintiff": "ANCHOR MORTGAGE SERVICES INC",
+  "defendant": "MCKENZIE HUBERT K, MCKENZIE DONNA M",
+  "date": "01/09/1990",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "900000367",
+  "book_page": "707/165",
+  "pages": "2",
+  "description": "PART OF SEC 18 T4S R16E",
+  "document": "https://datahingeinterview.s3.amazonaws.com/900000367.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc0801f748b3aeb1de81a"
+  },
+  "plaintiff": "AERO CORPORATION",
+  "defendant": "THE PERUVIAN AIR FORCE, THE REPUBLIC OF PERU",
+  "date": "01/15/1991",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "910000677",
+  "book_page": "740/1378",
+  "pages": "1",
+  "description": "90 47 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/910000677.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc0931f748b3aeb1de81b"
+  },
+  "plaintiff": "FLORIDA INVESTORS MORTGAGE COR",
+  "defendant": "S L PROPERTY MANAGEMENT & INV, RENTZ HERMAN L",
+  "date": "01/14/1987",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "870000395",
+  "book_page": "612/219",
+  "pages": "1",
+  "description": "87 17 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/870000395.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc0a51f748b3aeb1de81c"
+  },
+  "plaintiff": "MARCELLO PROPERTIES INC",
+  "defendant": "PERRINE JAMES L, LAKE SHORE HOSPITAL",
+  "date": "01/20/1987",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "870000538",
+  "book_page": "612/588",
+  "pages": "1",
+  "description": "87 14 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/870000538.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc0b71f748b3aeb1de81d"
+  },
+  "plaintiff": "CREDITHRIFT INC",
+  "defendant": "WEATHERSHIELD SYSTEMS INC, PYLE FRANCIS R, PYLE EUGENE H",
+  "date": "01/27/1987",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "870000845",
+  "book_page": "613/357",
+  "pages": "1",
+  "description": "86 83 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/870000845.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc0cc1f748b3aeb1de81e"
+  },
+  "plaintiff": "FEDERAL LAND LANK OF COL CO",
+  "defendant": "OOSTERHOUDT FRANK S III, J C MARSH & SONS /ETAL, OOSTERHOUDT MICHAEL B, OOSTERHOUDT ALLIE M, OOSTERHOUDT PATRICK E",
+  "date": "07/30/1987",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "870008123",
+  "book_page": "629/72",
+  "pages": "13",
+  "description": "87 473 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/870008123.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc0de1f748b3aeb1de81f"
+  },
+  "plaintiff": "ADAMS GREG",
+  "defendant": "BEDENBAUGH KEVIN, PASCHALL DIANE S",
+  "date": "02/02/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880001041",
+  "book_page": "643/37",
+  "pages": "1",
+  "description": "LOT 5 BLK D OF 242 VILLAGE",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880001041.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc0f11f748b3aeb1de820"
+  },
+  "plaintiff": "AMSOUTH MORTGAGE COMPANY INC",
+  "defendant": "PERRY HAROLD D, FAMILY CREDIT SERVICES INC",
+  "date": "02/08/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880001249",
+  "book_page": "643/419",
+  "pages": "3",
+  "description": "PART OF BLK E&M CITY LAKE CITY",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880001249.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc1021f748b3aeb1de821"
+  },
+  "plaintiff": "EDWARDS RUBY S SCHMITT",
+  "defendant": "ZAKOVSKY STEPHEN & ELISABETH",
+  "date": "02/25/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880001923",
+  "book_page": "645/164",
+  "pages": "1",
+  "description": "LOT 50 U 4 3 RIVERS ESTATES",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880001923.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc1141f748b3aeb1de822"
+  },
+  "plaintiff": "BROWN CHALKER JR, BROWN THOMAS",
+  "defendant": "HAMMONS G WAYNE DDS, FEAGLE MARLIN M, OCALA ROSE FARM, HOLDER MEDIA INC, KING VERONICA, KING RODNEY, GRAVES ROBERT J, REEBEN INC",
+  "date": "03/05/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880003368",
+  "book_page": "648/548",
+  "pages": "1",
+  "description": "LOTS 3-8 BLK 9 THOMAS PARK S/D",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880003368.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc1261f748b3aeb1de823"
+  },
+  "plaintiff": "ANCHOR SAVINGS BANK FSB",
+  "defendant": "BLAIR MARK, CREDITHRIFT INC, BLAIR SHELIA, INTERSTATE SUPPLY INC",
+  "date": "03/15/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880002588",
+  "book_page": "646/658",
+  "pages": "2",
+  "description": "PART OF SEC 24 & 25 T4S R17E",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880002588.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc1381f748b3aeb1de824"
+  },
+  "plaintiff": "COMMUNITY NATIONAL BANK",
+  "defendant": "THOMAS MILO SCOTT / PER REP",
+  "date": "08/11/1988",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "880007714",
+  "book_page": "659/163",
+  "pages": "1",
+  "description": "PART OF BLK 250 CITY/LAKE CITY",
+  "document": "https://datahingeinterview.s3.amazonaws.com/880007714.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc19bd90b9e83ec91be9d"
+  },
+  "plaintiff": "RHEA HUGH D, RHEA SUSAN A",
+  "defendant": "ROBINSON TERESA M, THOMAS BEVERLY R, GAINESVILLE FURNITURE COMPANY",
+  "date": "03/10/1992",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "920003158",
+  "book_page": "757/1241",
+  "pages": "1",
+  "description": "LOT 12 BLK E N DIVI OF C OF L",
+  "document": "https://datahingeinterview.s3.amazonaws.com/920003158.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc1aed90b9e83ec91be9e"
+  },
+  "plaintiff": "PATTEN CORPORATION GULF ATLANT",
+  "defendant": "MARRA ELLEN K, MARRA MICHAEL J",
+  "date": "04/08/1992",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "920004464",
+  "book_page": "758/1520",
+  "pages": "2",
+  "description": "L 31 ROLLING OAKS SUB/92 342 C",
+  "document": "https://datahingeinterview.s3.amazonaws.com/920004464.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc1c1d90b9e83ec91be9f"
+  },
+  "plaintiff": "BRANNON ALYCE M, BOLAND ALYCE M",
+  "defendant": "BEIGHTOL NEALE L, BEIGHTOL LINDA B",
+  "date": "05/11/1992",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "920005941",
+  "book_page": "759/2028",
+  "pages": "1",
+  "description": "PART OF SEC 32 T3S R17E/92 426",
+  "document": "https://datahingeinterview.s3.amazonaws.com/920005941.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc1d3d90b9e83ec91bea0"
+  },
+  "plaintiff": "BARNETT BANK OF NORTH CENTRAL",
+  "defendant": "CLAYTON INDUSTRIES INC",
+  "date": "08/12/1992",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "920009907",
+  "book_page": "763/1440",
+  "pages": "2",
+  "description": "UNIT 5 FAIRWAY HILLS/92 794 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/920009907.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc1e5d90b9e83ec91bea1"
+  },
+  "plaintiff": "ANCHOR SAVINGS BANK",
+  "defendant": "DUNHAM RODNEY, DUNHAM SHERRY L",
+  "date": "09/29/1992",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "920011935",
+  "book_page": "765/1258",
+  "pages": "1",
+  "description": "PART OF SEC 25 T4S R16E",
+  "document": "https://datahingeinterview.s3.amazonaws.com/920011935.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc1f8d90b9e83ec91bea2"
+  },
+  "plaintiff": "UNITED STATES OF AMERICA",
+  "defendant": "LANGSTON W GAIL, LANGSTON BRUCE",
+  "date": "12/29/1992",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "920015510",
+  "book_page": "768/2506",
+  "pages": "1",
+  "description": "LOT 1 COUNTRY DALE ESTATES",
+  "document": "https://datahingeinterview.s3.amazonaws.com/920015510.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc20ad90b9e83ec91bea3"
+  },
+  "plaintiff": "INDEPENDENCE MORTGAGE CORP",
+  "defendant": "HENDERSON JOHN A",
+  "date": "02/10/1993",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "930001628",
+  "book_page": "770/2373",
+  "pages": "2",
+  "description": "93 139 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/930001628.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc21cd90b9e83ec91bea4"
+  },
+  "plaintiff": "GLENN HETTIE LOU",
+  "defendant": "REED ROBERT R, REED VICKI K",
+  "date": "03/01/1993",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "930002309",
+  "book_page": "771/1589",
+  "pages": "1",
+  "description": "LOTS 6&7 BLK A TIMUQUA SUB",
+  "document": "https://datahingeinterview.s3.amazonaws.com/930002309.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc22ed90b9e83ec91bea5"
+  },
+  "plaintiff": "KIRKLAND BYRON P",
+  "defendant": "KIRKLAND ORA M",
+  "date": "08/09/1993",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "930009037",
+  "book_page": "778/654",
+  "pages": "1",
+  "description": "LOT 22 UNIT 5 THREE RIVERS EST",
+  "document": "https://datahingeinterview.s3.amazonaws.com/930009037.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc241d90b9e83ec91bea6"
+  },
+  "plaintiff": "UNITED STATES OF AMERICA",
+  "defendant": "FLORIDA NATIONAL BANK, FOODWAY OF LAKE CITY, STATE OF FLORIDA, LAKE SHORE HOSPITAL INC, CREDITHRIFT OF AMERICA INC, PATE MINNIE G, JOHNS TV SALES & SERVICE INC, BERRY INTER DETECTIVE SERVICE, PATE ARTHUR L",
+  "date": "12/17/1993",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "930014528",
+  "book_page": "783/1680",
+  "pages": "1",
+  "description": "93 1578 CA/LOT 11 BLK 3 CAROLY",
+  "document": "https://datahingeinterview.s3.amazonaws.com/930014528.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc253d90b9e83ec91bea7"
+  },
+  "plaintiff": "FERGUSON DALE C/TRUSTEE",
+  "defendant": "TOWNSEND MARY LOUISE",
+  "date": "01/14/1994",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "940000625",
+  "book_page": "785/222",
+  "pages": "1",
+  "description": "LOT 13 BLK A RANCHETTES/94 37",
+  "document": "https://datahingeinterview.s3.amazonaws.com/940000625.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc266d90b9e83ec91bea8"
+  },
+  "plaintiff": "BANCBOSTON MORTGAGE CORP",
+  "defendant": "WATERS RONALD C/ET AL",
+  "date": "02/14/1994",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "940001882",
+  "book_page": "786/552",
+  "pages": "1",
+  "description": "94 184 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/940001882.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc278d90b9e83ec91bea9"
+  },
+  "plaintiff": "ILLINGWORTH LEESA, ELLINGSWORTH LEESA, SIMS JEFFREY L",
+  "defendant": "LEONARD SHEREE",
+  "date": "03/10/1994",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "940003093",
+  "book_page": "787/1096",
+  "pages": "1",
+  "description": "PART OF SEC 35 T6S R16E",
+  "document": "https://datahingeinterview.s3.amazonaws.com/940003093.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc28ad90b9e83ec91beaa"
+  },
+  "plaintiff": "SISK EDNA I",
+  "defendant": "HOAG MARTHA",
+  "date": "03/23/1994",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "940003647",
+  "book_page": "787/2282",
+  "pages": "1",
+  "description": "94 357 CA/PART OF SEC 14 T6S R",
+  "document": "https://datahingeinterview.s3.amazonaws.com/940003647.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc29dd90b9e83ec91beab"
+  },
+  "plaintiff": "DLC CATTLE CO INC",
+  "defendant": "JACKSON LOIS A",
+  "date": "03/30/1994",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "940004033",
+  "book_page": "788/664",
+  "pages": "2",
+  "description": "94 413 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/940004033.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc2afd90b9e83ec91beac"
+  },
+  "plaintiff": "FORD CONSUMER FINANCE CO",
+  "defendant": "REPSHER CLIFFORD F",
+  "date": "04/05/1994",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "940004305",
+  "book_page": "788/1248",
+  "pages": "1",
+  "description": "94 419 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/940004305.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc2c2d90b9e83ec91bead"
+  },
+  "plaintiff": "DEPARTMENT OF TRANSPORTATION",
+  "defendant": "COBB L J JR/ET UX ET AL",
+  "date": "06/22/1994",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "940008332",
+  "book_page": "792/473",
+  "pages": "21",
+  "description": "94 760 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/940008332.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc2d4d90b9e83ec91beae"
+  },
+  "plaintiff": "FERGUSON DALE C/TRUSTEE",
+  "defendant": "PEACHTREE INVESTMENT GROUP, MOATES TERESA GAYLE, MOATES HAROLD DWAYNE",
+  "date": "07/22/1994",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "940009812",
+  "book_page": "793/1219",
+  "pages": "2",
+  "description": "94 945 CA/PART OF SEC 33 T1S R17E",
+  "document": "https://datahingeinterview.s3.amazonaws.com/940009812.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc2e7d90b9e83ec91beaf"
+  },
+  "plaintiff": "UNITED COMPANIES LENDING CORP",
+  "defendant": "ROBARTS RHODA, ROBARTS JOHN PAUL",
+  "date": "07/22/1994",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "940009814",
+  "book_page": "793/1226",
+  "pages": "2",
+  "description": "94 927 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/940009814.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc2f9d90b9e83ec91beb0"
+  },
+  "plaintiff": "THE UNITED STATES OF AMERICA",
+  "defendant": "COUNTY OF COLUMBIA FLORIDA, BRADLEY MARGIE DENISE, BRADLEY MARGGIE D",
+  "date": "09/22/1994",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "940012530",
+  "book_page": "795/2395",
+  "pages": "1",
+  "description": "94 1214 CA/LOT 13 BLK A 242 VILLAGE",
+  "document": "https://datahingeinterview.s3.amazonaws.com/940012530.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc30bd90b9e83ec91beb1"
+  },
+  "plaintiff": "THE UNITED STATES OF AMERICA",
+  "defendant": "OQUINN STANLEY W II",
+  "date": "09/22/1994",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "940012532",
+  "book_page": "795/2398",
+  "pages": "1",
+  "description": "94 1216 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/940012532.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc31ed90b9e83ec91beb2"
+  },
+  "plaintiff": "WATSON ROBERT",
+  "defendant": "FREE DONNIE E, NICHOLAS COMMUNICATION, FT WHITE CABLEVISION INC, TELECOMMUNICATION INC",
+  "date": "12/14/1994",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "940016082",
+  "book_page": "799/406",
+  "pages": "3",
+  "description": "94 1572",
+  "document": "https://datahingeinterview.s3.amazonaws.com/940016082.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc330d90b9e83ec91beb3"
+  },
+  "plaintiff": "UNITED COMPANIES LENDING CORP",
+  "defendant": "PHILLIPS DIANA J, LOWREY WILLIAM HENRY, LOWREY DIANA J",
+  "date": "03/02/1995",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "950002706",
+  "book_page": "802/988",
+  "pages": "3",
+  "description": "95 60 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/950002706.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc342d90b9e83ec91beb4"
+  },
+  "plaintiff": "THREE RIVERS ESTATES INC",
+  "defendant": "SPARACINO DEBRA R",
+  "date": "03/09/1995",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "950003016",
+  "book_page": "802/1756",
+  "pages": "1",
+  "description": "95 91 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/950003016.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc354d90b9e83ec91beb5"
+  },
+  "plaintiff": "SULLIVAN PAMELA K",
+  "defendant": "SULLIVAN WILLIAM G",
+  "date": "03/10/1995",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "950003124",
+  "book_page": "802/1988",
+  "pages": "1",
+  "description": "94 1090 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/950003124.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc367d90b9e83ec91beb6"
+  },
+  "plaintiff": "BARNETT BANK OF COLUMBIA COUNT",
+  "defendant": "BULLARD GOLDIE VARNEY SHOCK, BULLARD SHELTON, BULLARD GOLDIE S, BRAINARD DEWEY, BULLARD SHELTON PEST CONTROL",
+  "date": "03/23/1995",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "950003701",
+  "book_page": "803/834",
+  "pages": "2",
+  "description": "95 52 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/950003701.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc379d90b9e83ec91beb7"
+  },
+  "plaintiff": "DICKS LENVIL H",
+  "defendant": "WATTS WILLIAM TIMOTHY III, JOHNSON LINDA M",
+  "date": "04/19/1995",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "950004917",
+  "book_page": "804/988",
+  "pages": "1",
+  "description": "95 144 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/950004917.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc38bd90b9e83ec91beb8"
+  },
+  "plaintiff": "BARNETT MORTGAGE COMPANY",
+  "defendant": "BRUNER THOMAS K, CAMPBELL WILLIAM M & CLARA H",
+  "date": "04/27/1995",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "950005234",
+  "book_page": "804/1754",
+  "pages": "1",
+  "description": "95 146 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/950005234.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc4d49e7022b9ef43fa3d"
+  },
+  "plaintiff": "MCGUIRE WILLIAM ALEX/TRUSTEE, MCGUIRE WILLIAM ALEX/TRUST",
+  "defendant": "REDDICK TONY EDWARD",
+  "date": "05/16/1995",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "950006114",
+  "book_page": "805/1133",
+  "pages": "2",
+  "description": "95 164 CA PART OF SEC6 T1S R17E",
+  "document": "https://datahingeinterview.s3.amazonaws.com/950006114.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc4e89e7022b9ef43fa3e"
+  },
+  "plaintiff": "LAKE CITY HOTEL OPERATING INC, LAKE CITY PARTNERS LTD",
+  "defendant": "MARSHALL MILTON CO TRUSTEES, LAKE CITY TRUST 2 & 3 & 4, SAFER ELLIOT J",
+  "date": "06/29/1995",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "950008186",
+  "book_page": "807/1018",
+  "pages": "4",
+  "description": "95 225 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/950008186.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc4fa9e7022b9ef43fa3f"
+  },
+  "plaintiff": "REVELLE SAM F",
+  "defendant": "MIKLAUTSCH MICHAEL J",
+  "date": "07/07/1995",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "950008529",
+  "book_page": "807/1803",
+  "pages": "1",
+  "description": "95 234 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/950008529.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc50c9e7022b9ef43fa40"
+  },
+  "plaintiff": "SOUTHERN STONE & TITLE INC",
+  "defendant": "MRVICA JERE",
+  "date": "08/10/1995",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "950010119",
+  "book_page": "809/471",
+  "pages": "1",
+  "description": "95 728 SP",
+  "document": "https://datahingeinterview.s3.amazonaws.com/950010119.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc51e9e7022b9ef43fa41"
+  },
+  "plaintiff": "THREE RIVERS ESTATES INC",
+  "defendant": "PHICIEN ODETTE",
+  "date": "08/22/1995",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "950010535",
+  "book_page": "809/1328",
+  "pages": "1",
+  "description": "95 283 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/950010535.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc5319e7022b9ef43fa42"
+  },
+  "plaintiff": "GE CAPITAL MORTGAGE SERVICES",
+  "defendant": "GRIFFIN ALLONIA A",
+  "date": "09/08/1995",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "950011437",
+  "book_page": "810/708",
+  "pages": "2",
+  "description": "95 821 CC",
+  "document": "https://datahingeinterview.s3.amazonaws.com/950011437.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc5439e7022b9ef43fa43"
+  },
+  "plaintiff": "BANKERS TRUST COMPANY OF CALIF, VENDEE MORTGAGE TRUST 95 1",
+  "defendant": "BLOMBERG DANIEL J JR",
+  "date": "01/25/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960001046",
+  "book_page": "816/1360",
+  "pages": "1",
+  "description": "96 11 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960001046.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc5559e7022b9ef43fa44"
+  },
+  "plaintiff": "DAUGHTRY O P III, DAUGHTRY O P JR",
+  "defendant": "SMITH JUDITH A, SMITH MICHAEL J",
+  "date": "02/06/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960001603",
+  "book_page": "817/257",
+  "pages": "1",
+  "description": "96 26 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960001603.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc5689e7022b9ef43fa45"
+  },
+  "plaintiff": "DLC CATTLE COMPANY INC",
+  "defendant": "WATTS DONALD M",
+  "date": "03/22/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960004070",
+  "book_page": "819/903",
+  "pages": "1",
+  "description": "LOT 34 BICENTENNIAL ACRES UNIT 2 96 85 C",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960004070.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc57a9e7022b9ef43fa46"
+  },
+  "plaintiff": "BARNETT MORTGAGE COMPANY",
+  "defendant": "HOWARD WILLIAM J, HOWARD SUSAN M",
+  "date": "04/08/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960004851",
+  "book_page": "820/109",
+  "pages": "2",
+  "description": "96 106 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960004851.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc58c9e7022b9ef43fa47"
+  },
+  "plaintiff": "VAIL THOMAS L",
+  "defendant": "HALL VAIL ANNETTE, BLACK ANNETTE H",
+  "date": "04/22/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960005556",
+  "book_page": "820/1930",
+  "pages": "1",
+  "description": "LOT 2 TUSTENUGGEE ACRES UNIT 1 96 119 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960005556.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc59f9e7022b9ef43fa48"
+  },
+  "plaintiff": "DICKS LENVIL H",
+  "defendant": "THE UNITED STATES OF AMERICA, WIEDERKEHR MICHAEL D, OKLAWAHA FARMS INC, FARMERS HOME ADMINISTRATION, WIEDERKEHR KATHRYN E",
+  "date": "04/23/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960005698",
+  "book_page": "820/2357",
+  "pages": "2",
+  "description": "PART OF SEC 25 T2S R15E",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960005698.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc5b19e7022b9ef43fa49"
+  },
+  "plaintiff": "UNITED STATES OF AMERICA",
+  "defendant": "TOWNSEND CAROLYN B, TOWNSEND RONALD C",
+  "date": "04/24/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960005741",
+  "book_page": "820/2461",
+  "pages": "2",
+  "description": "PART OF SEC 5 T3S R16E",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960005741.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc5c49e7022b9ef43fa4a"
+  },
+  "plaintiff": "FLEET FINANCE HOME EQUITY TRUS, CHEMICAL BANK/TRUSTEE",
+  "defendant": "BALDWIN DEBORAH, UNITED STATES OF AMERICA, GRIFFIS DRILLING SPECIALISTS I, BALDWIN CHERRI D, INTERNAL REVENUE SERVICE, STATE OF FL DEPARTMENT OF REVE, HANDI STORAGE TRAILER RENTALS, BALDWIN MALCOLM W JR",
+  "date": "07/31/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960010789",
+  "book_page": "825/2093",
+  "pages": "2",
+  "description": "96 241 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960010789.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc5d69e7022b9ef43fa4b"
+  },
+  "plaintiff": "OBRYANT JESSIE T, OBRYANT FRANCES E",
+  "defendant": "ELLIS HIRAM M, ELLIS GEORGIA",
+  "date": "09/05/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960012730",
+  "book_page": "827/1484",
+  "pages": "1",
+  "description": "96 285 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960012730.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc5e89e7022b9ef43fa4c"
+  },
+  "plaintiff": "FINANCIAL RESEARCH SERVICES IN",
+  "defendant": "GILBERT LADY R",
+  "date": "09/17/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960013393",
+  "book_page": "828/483",
+  "pages": "1",
+  "description": "96 312 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960013393.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc5fa9e7022b9ef43fa4d"
+  },
+  "plaintiff": "COLUMBIA SERVICE COMPANY INC",
+  "defendant": "COX THELMA J, WRIGHT RICHARD L, COX TERESA LYNN",
+  "date": "09/19/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960013466",
+  "book_page": "828/690",
+  "pages": "1",
+  "description": "96 300 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960013466.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc60d9e7022b9ef43fa4e"
+  },
+  "plaintiff": "STOKES NASSAU INC",
+  "defendant": "AHMED HASSAN DAVID CHARLES",
+  "date": "09/27/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960013931",
+  "book_page": "828/1827",
+  "pages": "1",
+  "description": "96 327 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960013931.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc61f9e7022b9ef43fa4f"
+  },
+  "plaintiff": "GE CAPITAL MORTGAGE SERVICES I",
+  "defendant": "UNKNOWN TENANTS, STALVEY SHARON K, DOE JOHN, DOE JANE, UNKNOWN SPOUSE, UNITED STATES OF AMERICA",
+  "date": "10/17/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960014913",
+  "book_page": "829/1497",
+  "pages": "1",
+  "description": "96 346 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960014913.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc6319e7022b9ef43fa50"
+  },
+  "plaintiff": "COMMUNITY NATIONAL BANK, CNB NATIONAL BANK",
+  "defendant": "OOSTERHOUDT F S III, J C MARSH & SONS INC, AMERICAN RECYCLING & METALS IN",
+  "date": "10/30/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960015601",
+  "book_page": "830/391",
+  "pages": "2",
+  "description": "96 359 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960015601.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc6449e7022b9ef43fa51"
+  },
+  "plaintiff": "WYLIE IRENE, WYLIE WELDON",
+  "defendant": "WYLIE ROBERT S, WYLIE HELEN B",
+  "date": "11/04/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960015801",
+  "book_page": "830/890",
+  "pages": "1",
+  "description": "96 365 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960015801.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc6569e7022b9ef43fa52"
+  },
+  "plaintiff": "JORDAN ROBERT F",
+  "defendant": "QUINAN GEORGIA C/TRUSTEE, QUINAN EDWARD B/TRUSTEE, ACME REALTY COMPANY INC",
+  "date": "12/10/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960017407",
+  "book_page": "831/2132",
+  "pages": "2",
+  "description": "96 361 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960017407.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc6689e7022b9ef43fa53"
+  },
+  "plaintiff": "BANK OF AMERICA",
+  "defendant": "VELEZ JAVIER",
+  "date": "12/10/1996",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "960017408",
+  "book_page": "831/2134",
+  "pages": "1",
+  "description": "96 401 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/960017408.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc67a9e7022b9ef43fa54"
+  },
+  "plaintiff": "BLUEGREEN CORPORATION, PATTEN CORPORATION, REMIC TRUST SERIES 1995 1, FIRST TRUST NATIONAL ASSOCIATI",
+  "defendant": "ICHETUCKNEE FOREST HOMEOWNERS, SONA CHARLES F",
+  "date": "01/14/1997",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "970000565",
+  "book_page": "833/1338",
+  "pages": "1",
+  "description": "97 35 CC",
+  "document": "https://datahingeinterview.s3.amazonaws.com/970000565.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc68d9e7022b9ef43fa55"
+  },
+  "plaintiff": "UNITED STATES OF AMERICA",
+  "defendant": "MORTON WINNIE NELL, FEAGLE LEON, BRD OF CO COMM/COL CO FLORIDA, UNKNOWN SPOUSE, MORTON NELL FEAGLE, FEAGLE WINNIE NELL, COLUMBIA COUNTY FLORIDA",
+  "date": "02/07/1997",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "970001704",
+  "book_page": "834/1535",
+  "pages": "2",
+  "description": "95 185 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/970001704.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc6a19e7022b9ef43fa56"
+  },
+  "plaintiff": "FAIRFAX NURSING CENTER INC",
+  "defendant": "DUNN JANELL M WATSON, DUNN GEORGE K",
+  "date": "03/12/1997",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "970003230",
+  "book_page": "836/207",
+  "pages": "1",
+  "description": "97 102 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/970003230.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc6b39e7022b9ef43fa57"
+  },
+  "plaintiff": "ASSOCIATES HOUSING FINANCE SER, FORD HOUSING FINANCE SERVICES",
+  "defendant": "KEEN JOHN W",
+  "date": "04/16/1997",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "970005250",
+  "book_page": "838/172",
+  "pages": "1",
+  "description": "97 156 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/970005250.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc6c59e7022b9ef43fa58"
+  },
+  "plaintiff": "HOMESIDE HOLDINGS INC, BARNETT MORTGAGE COMPANY",
+  "defendant": "VALLEY NATIONAL FINANCIAL SERV, RUSH CHARLOTTE W, UNKNOWN TENANTS, RUSH DONALD E",
+  "date": "04/24/1997",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "970005557",
+  "book_page": "838/879",
+  "pages": "2",
+  "description": "97 174 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/970005557.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc6d79e7022b9ef43fa59"
+  },
+  "plaintiff": "SIMMONS FIRST NATIONAL BANK OF, SIMMONS FIRST NATIONAL BANK",
+  "defendant": "BATES CAROLYN, BATES WILLIE, UNKNOWN PERSON, GREEN TREE FINANCIAL CORPORATI",
+  "date": "05/19/1997",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "970006838",
+  "book_page": "839/1470",
+  "pages": "1",
+  "description": "97 207 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/970006838.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc6e99e7022b9ef43fa5a"
+  },
+  "plaintiff": "UNITED STATES DEPARTMENT OF AG, UNITED STATES OF AMERICA, RURAL DEVELOPMENT, FARMERS HOME ADMINISTRATION",
+  "defendant": "ROWE ANNE MARIE, ROWE JIM ALLEN, CARTER ANNE MARIE",
+  "date": "05/20/1997",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "970007006",
+  "book_page": "839/1829",
+  "pages": "2",
+  "description": "97 210 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/970007006.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc6fc9e7022b9ef43fa5b"
+  },
+  "plaintiff": "WESTRIDGE INC",
+  "defendant": "COMMUNITY NATIONAL BANK, LAKE SHORE HOSPITAL INC, CHAPMAN LINDA G, CHAPMAN WESLEY W",
+  "date": "07/18/1997",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "970009796",
+  "book_page": "842/1244",
+  "pages": "1",
+  "description": "97 287 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/970009796.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc70e9e7022b9ef43fa5c"
+  },
+  "plaintiff": "RURAL DEVELOPMENT, UNITED STATES OF AMERICA, FARMERS HOME ADMINISTRATION, DEPARTMENT OF AGRICULTURE",
+  "defendant": "COLUMBIA COUNTY BANK, STERLING SOUTHERN RESOURCES IN, RAPER MERRIL, RAPER LILLIE B, BLACK LILLIE",
+  "date": "02/06/1998",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "980001812",
+  "book_page": "853/20",
+  "pages": "2",
+  "description": "LOT 4 BLK B CEDAR ESTATES",
+  "document": "https://datahingeinterview.s3.amazonaws.com/980001812.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc7219e7022b9ef43fa5d"
+  },
+  "plaintiff": "FIRST FEDERAL SAVINGS BANK OF",
+  "defendant": "DEMARCO JOYCE L, PATEL NATRARLAL, COLUMBIA COUNTY FLORIDA, MORGAN RICHARD, MORGAN FLUN RICHARD, HADLEY HARPER, STAR MOTORS OF COLUMBIA INC, SAUNDERS AND WILLIAMS SAW SHOP, BIZAILLON FLO, MORGAN RICHARD FLUN, STAR MOTORS U HAUL, FLORIDA BOY TIRE & RIM INC, RHODEN JIMMY H",
+  "date": "02/20/1998",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "980002635",
+  "book_page": "853/2002",
+  "pages": "2",
+  "description": "98 36 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/980002635.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc7339e7022b9ef43fa5e"
+  },
+  "plaintiff": "CONTIMORTGAGE CORPORATION",
+  "defendant": "UNKNOWN TENANTS, JERRY CHERRY, UNKNOWN SPOUSE",
+  "date": "02/24/1998",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "980002819",
+  "book_page": "853/2414",
+  "pages": "1",
+  "description": "98 75 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/980002819.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc7469e7022b9ef43fa5f"
+  },
+  "plaintiff": "GREEN TREE FINANCIAL CORPORATI, GREEN TREE FINANCIAL SERVICING",
+  "defendant": "NATIONS BANK, FORD MOTOR CREDIT COMPANY, BRANT JODY L, BARNETT BANK N A, BRANT TERRIE R",
+  "date": "09/14/1998",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "980014786",
+  "book_page": "865/2123",
+  "pages": "3",
+  "description": "98 363 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/980014786.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc7599e7022b9ef43fa60"
+  },
+  "plaintiff": "BANK UNITED",
+  "defendant": "UNKNOWN PARTY IN POSSESSION OF, THOMAS LINDA S, JACKSON CHRISTOPHER BRUCE, THOMAS DONALD W",
+  "date": "10/14/1998",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "980016600",
+  "book_page": "867/1151",
+  "pages": "2",
+  "description": "SECTION 27 T4S R16E 98 394 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/980016600.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc7b58894e44723c5d691"
+  },
+  "plaintiff": "DIME SAVINGS BANK OF NEW YORK",
+  "defendant": "BENZ JUDY F, TUCKER DWIGHT MARSHALL, UNKNOWN PARTIES IN POSSESSION, BENZ DENNIS J",
+  "date": "02/10/1999",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "990002297",
+  "book_page": "874/1055",
+  "pages": "2",
+  "description": "99 67 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/990002297.pdf"
+},{
+  "_id": {
+    "$oid": "5f7fc7c88894e44723c5d692"
+  },
+  "plaintiff": "CNB NATIONAL BANK",
+  "defendant": "CAPITAL CITY BANK, HARDY ZOLA S, HARDY FRANK C, COLUMBIA COUNTY FLORIDA",
+  "date": "02/16/1999",
+  "document_type": "LIS PENDENS",
+  "county": "COLUMBIA",
+  "instrument_num": "990002580",
+  "book_page": "874/1784",
+  "pages": "1",
+  "description": "99-69 CA",
+  "document": "https://datahingeinterview.s3.amazonaws.com/990002580.pdf"
+}]

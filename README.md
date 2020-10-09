@@ -2,7 +2,7 @@
 
 ### Introduction
 
-![](/Volumes/Armin/DataHInge Interview/lib/flow.png)
+![](./lib/flow.png)
 
 scraper.py is used to scrape Lis Pendens from MyFloridaCounty.com, and storing the data as documents in a MongoDB database. The database is exported as a JSON file in then data directory
 
@@ -34,13 +34,13 @@ Document: The court document in the S3 server
 
 }
 
-![](/Volumes/Armin/DataHInge Interview/lib/mongodb.png)
+![](./lib/mongodb.png)
 
 #### Amazon S3 Server
 
 This server is used to host the downloaded court files. This was achieved by scraping the court documents onto the local machine and simultaneously uploading it to the server using an IAM user through the boto3 module. The documents are all public and can be accessed through the link in the database.
 
-![](/Volumes/Armin/DataHInge Interview/lib/s3.png)
+![](./lib/s3.png)
 
 ### Requirements
 

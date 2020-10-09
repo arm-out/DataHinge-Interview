@@ -61,7 +61,7 @@ Selenium - interact with the search queries using the Chrome driver
 -   It's easy to get the url for the pdf as it just makes a call to a REST API using the instrument number. However, you have to have an active search query session inorder to access the pdf i.e. just entering the url without accessing the search results will not let us access the pdf. Hence the driver that accessed the search results should be the one to access the pdf. This meant that I couldnt use any modules to render pdfs through python, but rather download them through Selenium (something it wasn't designed to directly achieve). Hence I had to come up with a work around by printing the current page to pdf.
 -   Once the page is printing to pdf, Selenium has no way to know when the file is downloaded and hence does not wait until the download is complete and proceeds to the next file, interrupting the download process. I had to implement a system that would check the download directory to validate that the file was downloaded, and only then is the proceeding code permitted to execute.
 
-#### Strenghts
+#### Strengths
 
 -   The code is fully automated and thus can be scallable for any number of search queries. Right now, we were capped at 101 queries but theoritically this program could handle any number of documents
 -   This skeleton can be used as a template to scrape any other type of documents from any other county/state's website due to the versatility of Selenium and the way the print to pdf is implemented

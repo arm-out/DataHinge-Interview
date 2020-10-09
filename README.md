@@ -73,3 +73,7 @@ Selenium - interact with the search queries using the Chrome driver
 #### Observations
 
 Four of the entries in the MyFloridaCounty.com's database had no court document associated with them. Since the program would download the entire page to pdf, instead of throwing an error, or skipping the entry, it downloaded the error message and added it as an entry. Thus, the document in the MongoDB database still had all other informationm of the court filing, without the court document
+
+#### Improvements
+
+One possible improvement that I could make is make this a multithreaded process, with a different web driver for each page of the search query, improving the time taken for the entire scraping process
